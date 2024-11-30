@@ -1,0 +1,14 @@
+.header{
+    color: red;
+    font-size: 30px;
+    text-align: center;
+}
+
+.container {
+    width: 500px;
+    margin: 50px auto;
+}
+
+.content {
+    margin-top: 30px;
+}
